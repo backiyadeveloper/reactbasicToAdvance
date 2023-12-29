@@ -1,0 +1,30 @@
+.firstdiv{
+    width: 100vw;
+}
+.allimages{
+    height: 5rem;
+    width: 5rem;
+    float: left;
+}
+.box1{
+    box-shadow: 0px -10px red;
+    background-color: white;
+    
+}
+.box2{
+    box-shadow: 0px -10px rgb(0, 179, 255);
+    background-color: white;
+}
+.box3{
+    box-shadow: 0px -10px rgb(0, 255, 30);
+    background-color: white;
+}
+.box4{
+    box-shadow: 0px -10px rgb(225, 255, 0);
+    background-color: white;
+}
+.parentdiv{
+    background-color: #cff4fc;
+    width: 100vw;
+    height: 100vh;
+}
